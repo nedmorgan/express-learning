@@ -1,0 +1,23 @@
+{
+  "name": "express_test",
+  "version": "1.0.0",
+  "description": "express learning",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nedmorgan/express-learning.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Ned Morgan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nedmorgan/express-learning/issues"
+  },
+  "homepage": "https://github.com/nedmorgan/express-learning#readme"
+}
